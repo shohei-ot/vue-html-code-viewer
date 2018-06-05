@@ -1,0 +1,21 @@
+{
+  "name": "vue-html-code-viewer",
+  "version": "0.0.1",
+  "description": "[WIP] Viewing preformatted html text from the reference to HTML Element.",
+  "main": "dist/install.js",
+  "author": "shohei-ot <shohei.ot@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-vue": "^4.5.0",
+    "poi": "^10.2.3",
+    "prettier": "^1.13.4",
+    "webpack": "4.9.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "build": "poi build",
+    "dev": "poi ./src/develop.js"
+  }
+}
