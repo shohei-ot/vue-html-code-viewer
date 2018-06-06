@@ -1,8 +1,8 @@
 {
   "name": "vue-html-code-viewer",
   "version": "0.0.1",
-  "description": "[WIP] Display preformatted html text from the reference to HTML Element.",
-  "main": "dist/main.js",
+  "description": "Display the preformatted HTML text by reference to single HTML Element.",
+  "main": "src/install.js",
   "author": "shohei-ot <shohei.ot@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -13,7 +13,6 @@
     "prettier": "^1.13.4"
   },
   "scripts": {
-    "build": "poi build",
-    "dev": "poi ./src/develop.js"
+    "dev": "poi"
   }
 }
