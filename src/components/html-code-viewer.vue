@@ -6,6 +6,7 @@
 
 <script>
 export default {
+  name: 'html-code-viewer',
   props: {
     debug: { type: Boolean, default: false },
     el: {
