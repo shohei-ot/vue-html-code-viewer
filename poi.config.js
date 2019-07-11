@@ -4,5 +4,4 @@ module.exports = {
   babel: {
     jsx: 'vue'
   },
-  hash: false
 }

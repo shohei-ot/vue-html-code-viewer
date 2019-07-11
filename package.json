@@ -9,10 +9,14 @@
     "eslint": "^6.0.1",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-vue": "^5.2.3",
-    "poi": "^10.2.3",
-    "prettier": "^1.18.2"
+    "poi": "^12.7.0",
+    "prettier": "^1.18.2",
+    "vue-template-compiler": "^2.6.10"
   },
   "scripts": {
     "dev": "poi"
+  },
+  "dependencies": {
+    "vue": "^2.6.10"
   }
 }

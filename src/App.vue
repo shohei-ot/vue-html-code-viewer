@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import HtmlCodeViewer from './components/html-code-viewer'
+import HtmlCodeViewer from './components/html-code-viewer.vue'
 export default {
   components:{HtmlCodeViewer}
 }
