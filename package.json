@@ -7,7 +7,7 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "6.5.1",
-    "eslint-config-prettier": "6.3.0",
+    "eslint-config-prettier": "6.4.0",
     "eslint-plugin-vue": "5.2.3",
     "poi": "12.7.3",
     "prettier": "1.18.2",
