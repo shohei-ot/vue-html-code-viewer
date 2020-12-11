@@ -9,7 +9,7 @@
     "eslint": "7.14.0",
     "eslint-config-prettier": "6.9.0",
     "eslint-plugin-vue": "6.2.2",
-    "poi": "12.7.5",
+    "poi": "12.10.3",
     "prettier": "2.2.0",
     "vue-template-compiler": "2.6.10"
   },
