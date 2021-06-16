@@ -11,7 +11,7 @@
     "eslint-plugin-vue": "6.2.2",
     "poi": "12.7.5",
     "prettier": "2.2.0",
-    "vue-template-compiler": "2.6.10"
+    "vue-template-compiler": "2.6.14"
   },
   "scripts": {
     "dev": "poi"
